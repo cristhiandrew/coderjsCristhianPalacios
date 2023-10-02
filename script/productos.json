@@ -1,0 +1,172 @@
+[
+    {
+        "id": "manga-1",
+        "titulo": "Tomo 1 Jujutsu Kaisen",
+        "imagen": "./images/mangas/1.webp",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "manga-2",
+        "titulo": "Tomo 2 Jujutsu Kaisen",
+        "imagen": "./images/mangas/2.webp",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "manga-3",
+        "titulo": "Tomo 3 Jujutsu Kaisen",
+        "imagen": "./images/mangas/3.webp",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "manga-4",
+        "titulo": "Tomo 4 Jujutsu Kaisen",
+        "imagen": "./images/mangas/4.webp",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "manga-5",
+        "titulo": "Tomo 5 Jujutsu Kaisen",
+        "imagen": "./images/mangas/5.webp",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "manga-3",
+        "titulo": "Tomo 6 Jujutsu Kaisen",
+        "imagen": "./images/mangas/6.webp",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "manga-7",
+        "titulo": "Tomo 7 Jujutsu Kaisen",
+        "imagen": "./images/mangas/7.webp",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "manga-8",
+        "titulo": "Tomo 8 Jujutsu Kaisen",
+        "imagen": "./images/mangas/8.webp",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "figura-01",
+        "titulo": "Figura Itadori Yuji",
+        "imagen": "./images/figuras/01.png",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "figura-02",
+        "titulo": "Figura Megumi Fushiguro",
+        "imagen": "./images/figuras/02.png",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "figura-03",
+        "titulo": "Figura Nobara Kugisaki",
+        "imagen": "./images/figuras/03.png",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "figura-04",
+        "titulo": "Figura Toge Inumaki",
+        "imagen": "./images/figuras/04.png",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "figura-05",
+        "titulo": "Figura Maki Zenin",
+        "imagen": "./images/figuras/05.png",
+        "categoria": {
+            "nombre": "Figuras",
+            "id": "figuras"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "remera-01",
+        "titulo": "Remera Jujutsu kaisen",
+        "imagen": "./images/remeras/01.webp",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "remera-02",
+        "titulo": "Remera Satoru Gojo",
+        "imagen": "./images/remeras/02.webp",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "remera-03",
+        "titulo": "Remera Satoru Gojo y Suguru Geto",
+        "imagen": "/images/remeras/03.webp",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "remera-04",
+        "titulo": "Remera Satoru Gojo y Toji Zenin",
+        "imagen": "/images/remeras/04.webp",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 10000
+    }
+]
